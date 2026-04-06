@@ -105,6 +105,14 @@ Atualmente cursando **Pós-Graduação em Engenharia de IA** na Impacta Tecnolog
 
 ---
 
+### 🏦 Mocks Funcionais
+
+| Repositório | Descrição |
+|---|---|
+| [**fintech-data-mock**](https://github.com/edsonirvana/fintech-data-mock) | Pipeline completo de dados para uma fintech fictícia (**PayBridge Financeira**) no GCP. Ingestão do PostgreSQL legado via Python ETL → Cloud Storage → BigQuery, transformações em **dbt** com Medalion Architecture (staging → intermediate → marts), camada semântica em **LookML/Looker** e governança com RLS, PII masking e testes de reconciliação financeira. KPIs: TPV, MDR, inadimplência (NPL), exposição de crédito, chargeback rate e receita líquida. |
+
+---
+
 ### 🐍 Python & Automação de Dados
 
 | Repositório | Descrição |
