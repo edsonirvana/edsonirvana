@@ -4,6 +4,8 @@
 
 **Analytics Engineering Coordinator · Data Product Leader · AI Engineering**
 
+🇧🇷 Português &nbsp;|&nbsp; 🇺🇸 [English](./README.en.md)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonmachadosilva/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edsonirvana@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511915175813)
@@ -31,42 +33,53 @@ Atualmente cursando **Pós-Graduação em Engenharia de IA** na Impacta Tecnolog
 [![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat-square&logoColor=white)](https://dagster.io/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
 [![LookML](https://img.shields.io/badge/LookML-34A853?style=flat-square&logo=looker&logoColor=white)](https://cloud.google.com/looker/docs/lookml-intro)
 [![Sling](https://img.shields.io/badge/Sling-00B4D8?style=flat-square&logoColor=white)](https://slingdata.io/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)](https://www.sqlalchemy.org/)
 
 **Cloud & Data Warehouse**
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
-[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![AWS Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/redshift/)
 [![AWS Athena](https://img.shields.io/badge/Athena-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/athena/)
 [![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/glue/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-fabric)
-[![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-3A3A6A?style=flat-square&logoColor=white)](https://iceberg.apache.org/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
+[![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-3A3A6A?style=flat-square&logo=apache&logoColor=white)](https://iceberg.apache.org/)
 
 **Bancos de Dados**
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat-square&logo=teradata&logoColor=white)](https://www.teradata.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+**Big Data & Processamento Distribuído**
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
+[![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)](https://hive.apache.org/)
 
 **Orquestração & DevOps**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://helm.sh/)
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 [![AWS DMS](https://img.shields.io/badge/AWS_DMS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/dms/)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+[![Apache Atlas](https://img.shields.io/badge/Apache_Atlas-E25A1C?style=flat-square&logo=apache&logoColor=white)](https://atlas.apache.org/)
 
-**Business Intelligence**
+**Business Intelligence & Analytics**
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)](https://www.metabase.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)](https://cloud.google.com/looker)
 [![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/quicksight/)
+[![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)](https://cloud.google.com/looker)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![SAS](https://img.shields.io/badge/SAS-0176BE?style=flat-square&logo=sas&logoColor=white)](https://www.sas.com/)
+[![SAS Guide](https://img.shields.io/badge/SAS_Enterprise_Guide-0176BE?style=flat-square&logo=sas&logoColor=white)](https://www.sas.com/en_us/software/enterprise-guide.html)
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)](https://www.metabase.com/)
 [![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat-square&logo=qlik&logoColor=white)](https://www.qlik.com/us/products/qlikview)
 
 **Visualização Programática (React)**
@@ -86,15 +99,15 @@ Atualmente cursando **Pós-Graduação em Engenharia de IA** na Impacta Tecnolog
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 
 **Integrações & APIs**
+[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)](https://developer.microsoft.com/sharepoint)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://developers.google.com/drive)
+[![GitLab](https://img.shields.io/badge/GitLab_API-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/api/)
 [![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)](https://api.slack.com/)
 [![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)](https://developers.hubspot.com/)
 [![Pipedrive](https://img.shields.io/badge/Pipedrive-17A84A?style=flat-square&logo=pipedrive&logoColor=white)](https://developers.pipedrive.com/)
 [![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)](https://developer.zendesk.com/)
 [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)](https://clickup.com/api)
 [![NetSuite](https://img.shields.io/badge/NetSuite-256999?style=flat-square&logoColor=white)](https://www.netsuite.com/)
-[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)](https://developer.microsoft.com/sharepoint)
-[![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://developers.google.com/drive)
-[![GitLab](https://img.shields.io/badge/GitLab_API-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/api/)
 [![MoEngage](https://img.shields.io/badge/MoEngage-00B4F0?style=flat-square&logoColor=white)](https://www.moengage.com/)
 
 ---
@@ -110,6 +123,7 @@ Atualmente cursando **Pós-Graduação em Engenharia de IA** na Impacta Tecnolog
 | Repositório | Descrição |
 |---|---|
 | [**fintech-data-mock**](https://github.com/edsonirvana/fintech-data-mock) | Pipeline completo de dados para uma fintech fictícia (**PayBridge Financeira**) no GCP. Ingestão do PostgreSQL legado via Python ETL → Cloud Storage → BigQuery, transformações em **dbt** com Medalion Architecture (staging → intermediate → marts), camada semântica em **LookML/Looker** e governança com RLS, PII masking e testes de reconciliação financeira. KPIs: TPV, MDR, inadimplência (NPL), exposição de crédito, chargeback rate e receita líquida. |
+| [**ml-churn-classifier**](https://github.com/edsonirvana/ml-churn-classifier) | Pipeline de classificação binária de churn para negócios transacionais — construído e validado em produção em larga escala. Engenharia de 80+ features comportamentais e financeiras a partir de histórico de transações, sem dependência de dados de CRM ou demográficos. **CatBoost · SMOTE · MLflow · scikit-learn** |
 
 ---
 
